@@ -1,4 +1,9 @@
 # Dokumentace
+
+## Wireframe
+
+https://ninjamock.com/s/SWWBKHx
+
 ![hlavni](https://user-images.githubusercontent.com/72737069/114014424-e4592400-9868-11eb-8ab2-e3aef1fd7f33.png)
 ![prihlaseni](https://user-images.githubusercontent.com/72737069/114016392-1075a480-986b-11eb-9223-96f15e49ff33.png)
 ![registrace](https://user-images.githubusercontent.com/72737069/114016404-123f6800-986b-11eb-8270-2e85679a797c.png)
