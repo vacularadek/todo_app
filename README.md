@@ -1,8 +1,11 @@
 # Dokumentace
+<img src="![hlavni](https://user-images.githubusercontent.com/72737069/114014424-e4592400-9868-11eb-8ab2-e3aef1fd7f33.png)
+" alt="alt text" width="50" height="50">
+
+
+
 Aplikace, kde si uživatel může zapisovat všechny věci, které chce splnit. Vidí vstupní (input) pole, kde může uživatel přidat novou položku na seznam úkolů. Uživatel může úkol označit jako dokončený a podívat se následně na seznam všech splněné úkoly. Uživatel může upravit nebo smazat úkol. Uživatel si může vytvořit seznam úkolů na aktuální den. Nad seznamem úkolů bude zobrazen ukazatel postupu, při plnění jednotlivých úkolů.
-
-
-(https://user-images.githubusercontent.com/72737069/114013251-a0195400-9867-11eb-96eb-5d7883b1e43e.png) 
+ 
 
 
 ## Použité programy: 
