@@ -1,7 +1,7 @@
 # Dokumentace
 Aplikace, kde si uživatel může zapisovat všechny věci, které chce splnit. Vidí vstupní (input) pole, kde může uživatel přidat novou položku na seznam úkolů. Uživatel může úkol označit jako dokončený a podívat se následně na seznam všech splněné úkoly. Uživatel může upravit nebo smazat úkol. Uživatel si může vytvořit seznam úkolů na aktuální den. Nad seznamem úkolů bude zobrazen ukazatel postupu, při plnění jednotlivých úkolů.
 
-![hlavni](https://user-images.githubusercontent.com/72737069/114013251-a0195400-9867-11eb-96eb-5d7883b1e43e.png)
+![hlavni](https://user-images.githubusercontent.com/72737069/114013251-a0195400-9867-11eb-96eb-5d7883b1e43e.png) style="max-width:50%;"
 
 ## Použité programy: 
 - Visual Studio Code
