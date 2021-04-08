@@ -1,6 +1,8 @@
 # Dokumentace
-<img src="![hlavni](https://user-images.githubusercontent.com/72737069/114014424-e4592400-9868-11eb-8ab2-e3aef1fd7f33.png)
-" alt="alt text" width="50" height="50">
+![hlavni](https://user-images.githubusercontent.com/72737069/114014424-e4592400-9868-11eb-8ab2-e3aef1fd7f33.png)
+![test image size](/img/post-bg-2015.jpg){:class="img-responsive"}
+![test image size](/img/post-bg-2015.jpg){:height="50%" width="50%"}
+![test image size](/img/post-bg-2015.jpg){:height="700px" width="400px"}
 
 
 
