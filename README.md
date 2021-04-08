@@ -25,6 +25,9 @@ https://ninjamock.com/s/SWWBKHx
 
 Aplikace, kde si uživatel může zapisovat všechny věci, které chce splnit. Vidí vstupní (input) pole, kde může uživatel přidat novou položku na seznam úkolů. Uživatel může úkol označit jako dokončený a podívat se následně na seznam všech splněných úkolů. Uživatel může smazat úkol. Uživatel si může vytvořit seznam úkolů a rozdělit si úkoly na více a méně důležité. 
  
+## Persony
+
+![persony](https://user-images.githubusercontent.com/72737069/114028807-2db16f80-9879-11eb-8262-351b0fa07260.png)
 
 
 ## Použité programy: 
